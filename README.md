@@ -69,13 +69,13 @@ Each entry in the JSON format is consisted of "tweet_id" (the ids of the related
                 '63414743309877248']}
 ```
 # Download
-Please click [Google Form](https://forms.gle/U1hRx5biQMC7qaGRA) to fill out the questionnaire survey, the download link of the PKBQAC2.0 dataset will be sent to your e-mail inbox.
+Please click [Google Form](https://forms.gle/U1hRx5biQMC7qaGRA) to fill out the questionnaire survey, the download link of the PKBQAC 2.0 dataset will be sent to your e-mail inbox.
 
 Please feel free to contact me if you have any questions.
 
 Email Address: azyen@nlg.csie.ntu.edu.tw
 
 # How to Cite the Corpus
-Please cite the following papers when referring to the PKBQAC dataset in academic publications and papers.
+Please cite the following papers when referring to the PKBQAC 2.0 dataset in academic publications and papers.
 
 An-Zi Yen, Hen-Hsen Huang and Hsin-Hsi Chen (2022). “Unanswerable Question Correction and Explanation over Personal Knowledge Base.” In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), October 17-21, Hybrid Conference, Hosted in Atlanta, Georgia, USA.
